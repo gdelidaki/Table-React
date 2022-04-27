@@ -1,3 +1,10 @@
+# Table in React
+
+See it online:
+
+- User can add, edit or delete rows in the table
+- Survives browser refreshes (data is being saved in local storage)
+- Table rows are being initiated from a JSON
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
