@@ -1,6 +1,4 @@
-# Table in React
-
-See it online:
+# Table in React 
 
 - User can add, edit or delete rows in the table
 - Survives browser refreshes (data is being saved in local storage)
